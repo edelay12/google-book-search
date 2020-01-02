@@ -1,0 +1,14 @@
+.mainForm {
+
+}
+.searchBox {
+    margin-right: 20px;
+    width: 200px;
+    border-radius: 6px;
+}
+
+.searchButton {
+    border: 1px solid black;
+  
+    border-radius: 6px;
+}
